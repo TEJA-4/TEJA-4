@@ -87,7 +87,7 @@
 📌 Secure Dockerized Pipeline with Continuous Integration  
 📌 SonarQube analysis to detect vulnerabilities & code issues  
 
-🔗 **[Project Repository](#)**  
+🔗 **https://github.com/TEJA-4/SonarOps_DevOps_Driven_Code_Quality**  
 
 ---
 
@@ -102,7 +102,7 @@
 ## 🤝 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-hingnekar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/teja-5"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/TEJA-4"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
