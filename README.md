@@ -10,7 +10,7 @@
 - 🌱 Learning & mastering **AWS | Kubernetes | Terraform | CI/CD | Docker**  
 - 💡 Exploring **Infrastructure as Code & DevSecOps**  
 - 🎯 Focused on **Scalability, Automation & High Availability**  
-- 📫 Reach me at **tejas12@gmail.com**  
+- 📫 Reach me at **hingnekartejas77@gmail.com**  
 - ⚡ Fun Fact: **Automating things is my superpower! ⚙️🔥**  
 
 ---
